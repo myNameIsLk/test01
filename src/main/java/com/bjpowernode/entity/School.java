@@ -4,6 +4,7 @@ public class School {
     private Integer sch_id;
     private Integer sch_name;
     private Integer sch_addr;
+    private String lk;
 
     public Integer getSch_id() {
         return sch_id;
